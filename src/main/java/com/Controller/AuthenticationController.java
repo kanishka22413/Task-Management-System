@@ -1,9 +1,4 @@
 package com.Controller;
-import com.uk.management.dto.AuthRequest;
-import com.uk.management.dto.AuthResponse;
-import com.uk.management.model.User;
-import com.uk.management.service.JWTService;
-import com.uk.management.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
